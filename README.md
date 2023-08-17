@@ -12,7 +12,7 @@
 
 ## 🛠 Языки и навыки
 
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />  -->
@@ -41,10 +41,13 @@
 ![Express.js](https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642)
 -->
 
-<div id="badges">
-<!--   <a href="your-linkedin-URL"> -->
+## Статистика
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRom1)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliaRom1&theme=dark&background=000000)(https://git.io/streak-stats)
+
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=NataliaRom1&style=flat-square&color=blue" alt=""/>
-<!--   </a> -->
 </div>
 
 ## 📲 Контакты
