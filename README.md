@@ -25,4 +25,4 @@
 ## 📲 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natalia_Romanovskaia)
-<!-- <a href="mailto:Natalia.Romanovskaia@yandex.ru">![Yandex](https://img.shields.io/badge/Yandex-FFFFFF?style=for-the-badge&logo=yandex&logoColor=black)</a> -->
+<a href="mailto:Natalia.Romanovskaia@yandex.ru">![Yandex](https://img.shields.io/badge/Yandex-FFFFFF?style=for-the-badge&logo=yandex&logoColor=black)</a>
