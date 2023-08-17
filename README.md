@@ -25,7 +25,7 @@
 
 <div id="badges">
 <!--   <a href="your-linkedin-URL"> -->
-<img src="https://komarev.com/ghpvc/NataliaRom1&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=NataliaRom1&style=flat-square&color=blue" alt=""/>
 <!--   </a> -->
 </div>
 
