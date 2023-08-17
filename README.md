@@ -1,6 +1,6 @@
 # Привет, меня зовут Наташа Романовская! :v:
 
-## :information_desk_person: Обо мне
+## <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Обо мне
 
   - Обучаюсь на курсе Web-разработчик от Яндекс.Практикум. 
   - Красный диплом магистра по специальности "Информационные системы и технологии" (Сколтех).
@@ -42,9 +42,10 @@
 -->
 
 ## :fire: Статистика
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliaRom1&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRom1)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NataliaRom1&style=flat-square&color=blue" alt=""/>
