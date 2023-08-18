@@ -4,9 +4,7 @@
 
   - Обучаюсь на курсе Web-разработчик от Яндекс.Практикум. 
   - Красный диплом магистра по специальности "Информационные системы и технологии" (Сколтех).
-  - Красный биплом бакалавра по специальности "Строительство" (УрФУ).
   - 5 публикаций, проиндексированных в Wos и Scopus.
-  - Английский (B1), Немецкий (А1).
   - Решаю задачи на CodeWars в свободное время.
   - Играю бадминтон, рисую и занимаюсь йогой.
 
@@ -41,6 +39,11 @@
 ![Express.js](https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642)
 -->
 
+## 📲 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natalia_Romanovskaia)
+<a href="mailto:Natalia.Romanovskaia@yandex.ru">![Yandex](https://img.shields.io/badge/Yandex-FFFFFF?style=for-the-badge&logo=yandex&logoColor=black)</a>
+
 ## :fire: Статистика
 <div align="center">
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliaRom1&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
@@ -53,8 +56,3 @@
 
 <img src="https://komarev.com/ghpvc/?username=NataliaRom1&style=flat-square&color=blue" alt=""/>
 </div>
-
-## 📲 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natalia_Romanovskaia)
-<a href="mailto:Natalia.Romanovskaia@yandex.ru">![Yandex](https://img.shields.io/badge/Yandex-FFFFFF?style=for-the-badge&logo=yandex&logoColor=black)</a>
